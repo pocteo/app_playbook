@@ -1,4 +1,4 @@
 - name: Install app on k8s
   hosts: localhost
   roles:
-    - nodejs
+    - nodejs_role
